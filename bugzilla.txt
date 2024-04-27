@@ -1,0 +1,3 @@
+bugzilla is bug tracking tool that helps to track the issues related to asoftware product
+it is written in perl language and it use mysql database 
+
